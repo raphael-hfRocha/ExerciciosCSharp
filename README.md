@@ -1,4 +1,4 @@
-### Exercicios C#
+# Exercicios C#
 
 Repositório dedicado a postar exercícios feitos em linguagem C# durante o curso de C# completo
 
