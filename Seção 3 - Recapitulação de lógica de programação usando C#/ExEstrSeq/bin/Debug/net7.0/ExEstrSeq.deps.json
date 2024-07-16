@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExEstrSeq/1.0.0": {
+        "runtime": {
+          "ExEstrSeq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExEstrSeq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
