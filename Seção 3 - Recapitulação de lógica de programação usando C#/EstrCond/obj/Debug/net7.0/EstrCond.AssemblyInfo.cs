@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstrCond")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd99a07f085b0a63a53efe056f8540cdebbc127")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstrCond")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstrCond")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

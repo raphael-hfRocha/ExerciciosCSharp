@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nova pasta (2)\\Nova pasta\\EstrCond\\EstrCond.csproj": {}
+    "C:\\Nova pasta (2)\\Seção 3 - Recapitulação de lógica de programação usando C#\\EstrCond\\EstrCond.csproj": {}
   },
   "projects": {
-    "C:\\Nova pasta (2)\\Nova pasta\\EstrCond\\EstrCond.csproj": {
+    "C:\\Nova pasta (2)\\Seção 3 - Recapitulação de lógica de programação usando C#\\EstrCond\\EstrCond.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nova pasta (2)\\Nova pasta\\EstrCond\\EstrCond.csproj",
+        "projectUniqueName": "C:\\Nova pasta (2)\\Seção 3 - Recapitulação de lógica de programação usando C#\\EstrCond\\EstrCond.csproj",
         "projectName": "EstrCond",
-        "projectPath": "C:\\Nova pasta (2)\\Nova pasta\\EstrCond\\EstrCond.csproj",
+        "projectPath": "C:\\Nova pasta (2)\\Seção 3 - Recapitulação de lógica de programação usando C#\\EstrCond\\EstrCond.csproj",
         "packagesPath": "C:\\Users\\x665003\\.nuget\\packages\\",
-        "outputPath": "C:\\Nova pasta (2)\\Nova pasta\\EstrCond\\obj\\",
+        "outputPath": "C:\\Nova pasta (2)\\Seção 3 - Recapitulação de lógica de programação usando C#\\EstrCond\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
