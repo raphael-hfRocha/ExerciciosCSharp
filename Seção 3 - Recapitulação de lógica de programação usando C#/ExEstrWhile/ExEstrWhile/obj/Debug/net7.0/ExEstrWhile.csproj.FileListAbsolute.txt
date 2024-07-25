@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\bin\Debug\net7.0\ExEstrWhile.exe
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\bin\Debug\net7.0\ExEstrWhile.deps.json
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\bin\Debug\net7.0\ExEstrWhile.runtimeconfig.json
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\bin\Debug\net7.0\ExEstrWhile.dll
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\bin\Debug\net7.0\ExEstrWhile.pdb
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ExEstrWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ExEstrWhile.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ExEstrWhile.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ExEstrWhile.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ExEstrWhile.sourcelink.json
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ExEstrWhile.dll
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\refint\ExEstrWhile.dll
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ExEstrWhile.pdb
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ExEstrWhile.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrWhile\obj\Debug\net7.0\ref\ExEstrWhile.dll

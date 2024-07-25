@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace EstrCond;
+﻿namespace EstrCond;
 
 internal class Program
 {
@@ -76,6 +74,52 @@ internal class Program
 
 
         /**/
+
+        string HorarioInicial, HorarioFinal;
+
+        Console.Write("Digite a hora inicial (Digite no formato de 24 horas como hh:mm): ");
+        HorarioInicial = Console.ReadLine();
+        Console.Write("Digite a hora final(Digite no formato de 24 horas como hh:mm): ");
+        HorarioFinal = Console.ReadLine();
+
+
+        TimeSpan HorarioInicialConvert = TimeSpan.Parse(HorarioInicial);
+        TimeSpan HorarioFinalConvert = TimeSpan.Parse(HorarioFinal);
+        TimeSpan DuracaoHora;
+
+        if(HorarioFinalConvert > HorarioInicialConvert)
+        {
+            DuracaoHora = HorarioFinalConvert - HorarioInicialConvert;
+            Console.WriteLine($"\n\nO jogo teve duração de: {DuracaoHora.ToString("hh:mm")}");
+        }
+        else
+        {
+            DuracaoHora = (TimeSpan.FromHours(24) - HorarioInicialConvert) + HorarioFinalConvert;
+            Console.WriteLine($"\n\nO jogo teve duração de: {DuracaoHora}");
+        }
+
+        
+
+        /*
+            DuracaoHora = HoraInicial - HoraFinal;
+
+        if (DuracaoHora != 0)
+        {
+            if (DuracaoHora < 0)
+            {
+                DuracaoHora = DuracaoHora * -1;
+                Console.WriteLine($"O jogo durou {DuracaoHora} hora(s)");
+            }
+            else
+            {
+                Console.WriteLine($"O jogo durou {DuracaoHora} hora(s)");
+            }
+        }
+        else
+        {
+            Console.WriteLine("O jogo durou 24 hora(s).");
+        }
+        */
 
 
 
@@ -192,36 +236,99 @@ internal class Program
             Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a
             situação. 
         */
+
+        /* 
+             double x, y;
+
+             Console.Write("Digite o valor de X: ");
+             x = double.Parse(Console.ReadLine());
+             Console.Write("Digite o valor de Y: ");
+             y = double.Parse(Console.ReadLine());
+
+
+             if (x == 0 && y == 0)
+             {
+                 Console.WriteLine("\nOrigem");
+             }
+             else if (x > 0 && y > 0)
+             {
+                 Console.WriteLine("\nQ1");
+             }
+             else if (x > 0 && y < 0)
+             {
+                 Console.WriteLine("\nQ4");
+             }
+             else if (x < 0 && y < 0)
+             {
+                 Console.WriteLine("\nQ3");
+             }
+             else if (x < 0 && y > 0)
+             {
+                 Console.WriteLine("\nQ2");
+             }
+        */
+
+
+        /*
+            Exercício 8 - Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem
+            que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem
+            qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$.
+
+            Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e
+            mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
             
-       /* 
-            double x, y;
-
-            Console.Write("Digite o valor de X: ");
-            x = double.Parse(Console.ReadLine());
-            Console.Write("Digite o valor de Y: ");
-            y = double.Parse(Console.ReadLine());
 
 
-            if (x == 0 && y == 0)
+            Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, pois a faixa de
+            salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. No exemplo fornecido (abaixo), a taxa é
+            de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser impresso com
+            duas casas decimais.
+        */
+
+
+        /*
+            double Salario, Imposto, ValorDescontadoImposto;
+
+            Console.Write("Digite um salario de um funcionario em Lisarb: ");
+            Salario = double.Parse(Console.ReadLine());
+
+            if (Salario >= 0.00 && Salario <= 2000.00)
             {
-                Console.WriteLine("\nOrigem");
+                Console.WriteLine("\nO funcionário isento.");
             }
-            else if (x > 0 && y > 0)
+            else if (Salario >= 2000.01 && Salario <= 3000.00)
             {
-                Console.WriteLine("\nQ1");
+                Imposto = (Salario - 2000) * 0.08;
+
+                Console.WriteLine("\nImposto 8%");
+                Console.WriteLine($"\nO valor de imposto a ser cobrado é: R${Imposto:F2}");
             }
-            else if (x > 0 && y < 0)
+            else if (Salario >= 3000.01 && Salario <= 4500.00)
             {
-                Console.WriteLine("\nQ4");
+                double ImpostoPrimeiraParte, ImpostoSegundaParte, Diferenca, SomaTotalImpostos;
+
+
+                ImpostoPrimeiraParte = 1000 * 0.08;
+                Diferenca = Salario - 3000;
+                ImpostoSegundaParte = Diferenca * 0.18;
+                SomaTotalImpostos = ImpostoPrimeiraParte + ImpostoSegundaParte;
+                Console.WriteLine("\nImposto 18%");
+                Console.WriteLine($"\nO valor de imposto a ser cobrado é: R${SomaTotalImpostos:F2}");
+
             }
-            else if (x < 0 && y < 0)
+            else if (Salario > 4500.00)
             {
-                Console.WriteLine("\nQ3");
+                double ImpostoPrimeiraParte, ImpostoSegundaParte, ImpostoTerceiraParte, Diferenca, SomaTotalImpostos;
+
+                ImpostoPrimeiraParte = 1500 * 0.18;
+                Diferenca = Salario - 4500;
+                ImpostoSegundaParte = Diferenca * 0.28;
+                ImpostoTerceiraParte = 1000 * 0.08;
+                SomaTotalImpostos = ImpostoPrimeiraParte + ImpostoSegundaParte + ImpostoTerceiraParte;
+                Console.WriteLine("\nImposto 18%");
+                Console.WriteLine($"\nO valor de imposto a ser cobrado é: R${SomaTotalImpostos:F2}");
+
             }
-            else if (x < 0 && y > 0)
-            {
-                Console.WriteLine("\nQ2");
-            }
-       */
+        */
     }
 }
