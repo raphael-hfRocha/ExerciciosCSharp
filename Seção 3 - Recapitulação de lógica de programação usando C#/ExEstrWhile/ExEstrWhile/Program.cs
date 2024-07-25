@@ -106,10 +106,6 @@ internal class Program
                     case 3:
                         Diesel += 1;
                         break;
-                    case 4:
-                        Environment.Exit(0);
-                        Console.WriteLine("Fim.");
-                        break;
                     default:
                         Console.Clear();
                         Console.WriteLine("\nCódigo inválido");
@@ -119,9 +115,11 @@ internal class Program
                 Console.Write("\nDigite uma das opções acima: ");
                 op = int.Parse(Console.ReadLine());
             }
-            Console.WriteLine("\nÁlcool: " + Alcool);
-            Console.WriteLine("\nGasolina: " + Gasolina);
-            Console.WriteLine("\nDiesel: " + Diesel);
+            Console.WriteLine("\nFim.");
+			
+            Console.WriteLine("\n\nÁlcool: " + Alcool);
+            Console.WriteLine("\n\nGasolina: " + Gasolina);
+            Console.WriteLine("\n\nDiesel: " + Diesel);
         */
 
     }
