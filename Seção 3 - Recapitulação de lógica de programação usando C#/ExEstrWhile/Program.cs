@@ -45,32 +45,33 @@ internal class Program
             y = int.Parse(Console.ReadLine());
 
             while(x != 0 ||  y != 0)
-            {
-                if(x > 0 && y > 0)
-                {
-                    Console.WriteLine("\nPrimeiro quadrante");
-                }
-                else if(x < 0 && y > 0)
-                {
-                    Console.WriteLine("\nSegundo quadrante");
-                }
-                else if(x < 0 && y < 0)
-                {
-                    Console.WriteLine("\nTerceiro quadrante");
-                }
-                else if(x > 0 && y < 0)
-                {
-                    Console.WriteLine("\nQuarto quadrante");
-                }
-                else
-                {
-                    Environment.Exit(0);
-                }
-
-                Console.Write("\n\nDigite a coordenada de X: ");
-                x = int.Parse(Console.ReadLine());
-                Console.Write("Digite a coordenada de Y: ");
-                y = int.Parse(Console.ReadLine());
+	    {
+		if(x > 0 && y > 0)
+		{
+		     Console.WriteLine("\nPrimeiro quadrante");
+		}
+		else if(x < 0 && y > 0)
+		{
+		     Console.WriteLine("\nSegundo quadrante");
+		}
+		else if(x < 0 && y < 0)
+		{
+		     Console.WriteLine("\nTerceiro quadrante");
+		}
+		else if(x > 0 && y < 0)
+		{
+		     Console.WriteLine("\nQuarto quadrante");
+		}
+		else
+		{
+		     Environment.Exit(0);
+		}
+	
+		Console.Write("\n\nDigite a coordenada de X: ");
+		x = int.Parse(Console.ReadLine());
+		Console.Write("Digite a coordenada de Y: ");
+		y = int.Parse(Console.ReadLine());
+	    }
         */
          
         /*
