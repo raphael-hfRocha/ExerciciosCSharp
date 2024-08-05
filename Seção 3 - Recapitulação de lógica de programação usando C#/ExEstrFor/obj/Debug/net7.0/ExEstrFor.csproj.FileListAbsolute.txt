@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\bin\Debug\net7.0\ExEstrFor.exe
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\bin\Debug\net7.0\ExEstrFor.deps.json
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\bin\Debug\net7.0\ExEstrFor.runtimeconfig.json
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\bin\Debug\net7.0\ExEstrFor.dll
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\bin\Debug\net7.0\ExEstrFor.pdb
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ExEstrFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ExEstrFor.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ExEstrFor.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ExEstrFor.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ExEstrFor.sourcelink.json
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ExEstrFor.dll
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\refint\ExEstrFor.dll
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ExEstrFor.pdb
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ExEstrFor.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 3 - Recapitulação de lógica de programação usando C#\ExEstrWhile\ExEstrFor\obj\Debug\net7.0\ref\ExEstrFor.dll

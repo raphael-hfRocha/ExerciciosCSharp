@@ -70,35 +70,31 @@ internal class Program
         /*
             Exercício 04 - Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode
             começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas. 
-        */
-
-
-        /**/
-
-        string HorarioInicial, HorarioFinal;
-
-        Console.Write("Digite a hora inicial (Digite no formato de 24 horas como hh:mm): ");
-        HorarioInicial = Console.ReadLine();
-        Console.Write("Digite a hora final(Digite no formato de 24 horas como hh:mm): ");
-        HorarioFinal = Console.ReadLine();
-
-
-        TimeSpan HorarioInicialConvert = TimeSpan.Parse(HorarioInicial);
-        TimeSpan HorarioFinalConvert = TimeSpan.Parse(HorarioFinal);
-        TimeSpan DuracaoHora;
-
-        if(HorarioFinalConvert > HorarioInicialConvert)
-        {
-            DuracaoHora = HorarioFinalConvert - HorarioInicialConvert;
-            Console.WriteLine($"\n\nO jogo teve duração de: {DuracaoHora.ToString("hh:mm")}");
-        }
-        else
-        {
-            DuracaoHora = (TimeSpan.FromHours(24) - HorarioInicialConvert) + HorarioFinalConvert;
-            Console.WriteLine($"\n\nO jogo teve duração de: {DuracaoHora}");
-        }
-
+            
         
+            string HorarioInicial, HorarioFinal;
+
+            Console.Write("Digite a hora inicial (Digite no formato de 24 horas como hh:mm): ");
+            HorarioInicial = Console.ReadLine();
+            Console.Write("Digite a hora final(Digite no formato de 24 horas como hh:mm): ");
+            HorarioFinal = Console.ReadLine();
+
+
+            TimeSpan HorarioInicialConvert = TimeSpan.Parse(HorarioInicial);
+            TimeSpan HorarioFinalConvert = TimeSpan.Parse(HorarioFinal);
+            TimeSpan DuracaoHora;
+
+            if(HorarioFinalConvert > HorarioInicialConvert)
+            {
+                DuracaoHora = HorarioFinalConvert - HorarioInicialConvert;
+                Console.WriteLine($"\n\nO jogo teve duração de: {DuracaoHora.ToString("hh:mm")}");
+            }
+            else
+            {
+                DuracaoHora = (TimeSpan.FromHours(24) - HorarioInicialConvert) + HorarioFinalConvert;
+                Console.WriteLine($"\n\nO jogo teve duração de: {DuracaoHora}");
+            }
+        */
 
         /*
             DuracaoHora = HoraInicial - HoraFinal;

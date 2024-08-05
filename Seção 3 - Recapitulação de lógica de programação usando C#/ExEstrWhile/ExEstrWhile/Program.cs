@@ -72,7 +72,7 @@ internal class Program
                 Console.Write("Digite a coordenada de Y: ");
                 y = int.Parse(Console.ReadLine());
         */
-
+         
         /*
             Exercício 3 - Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva
             um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel
