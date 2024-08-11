@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\bin\Debug\net7.0\ProdutoEstoque.exe
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\bin\Debug\net7.0\ProdutoEstoque.deps.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\bin\Debug\net7.0\ProdutoEstoque.runtimeconfig.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\bin\Debug\net7.0\ProdutoEstoque.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\bin\Debug\net7.0\ProdutoEstoque.pdb
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ProdutoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ProdutoEstoque.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ProdutoEstoque.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ProdutoEstoque.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ProdutoEstoque.sourcelink.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ProdutoEstoque.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\refint\ProdutoEstoque.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ProdutoEstoque.pdb
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ProdutoEstoque.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_3\ProdutoEstoque\obj\Debug\net7.0\ref\ProdutoEstoque.dll
