@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\SalarioMedioFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\SalarioMedioFuncionarios.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\SalarioMedioFuncionarios.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\SalarioMedioFuncionarios.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\SalarioMedioFuncionarios.sourcelink.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\bin\Debug\net7.0\SalarioMedioFuncionarios.exe
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\bin\Debug\net7.0\SalarioMedioFuncionarios.deps.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\bin\Debug\net7.0\SalarioMedioFuncionarios.runtimeconfig.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\bin\Debug\net7.0\SalarioMedioFuncionarios.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\bin\Debug\net7.0\SalarioMedioFuncionarios.pdb
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\SalarioMedioFuncionarios.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\refint\SalarioMedioFuncionarios.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\SalarioMedioFuncionarios.pdb
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\SalarioMedioFuncionarios.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_2\SalarioMedioFuncionarios\obj\Debug\net7.0\ref\SalarioMedioFuncionarios.dll
