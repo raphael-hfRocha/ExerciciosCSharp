@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\bin\Debug\net7.0\RetanguloMedidas.exe
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\bin\Debug\net7.0\RetanguloMedidas.deps.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\bin\Debug\net7.0\RetanguloMedidas.runtimeconfig.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\bin\Debug\net7.0\RetanguloMedidas.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\bin\Debug\net7.0\RetanguloMedidas.pdb
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\RetanguloMedidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\RetanguloMedidas.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\RetanguloMedidas.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\RetanguloMedidas.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\RetanguloMedidas.sourcelink.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\RetanguloMedidas.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\refint\RetanguloMedidas.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\RetanguloMedidas.pdb
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\RetanguloMedidas.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_4\RetanguloMedidas\obj\Debug\net7.0\ref\RetanguloMedidas.dll
