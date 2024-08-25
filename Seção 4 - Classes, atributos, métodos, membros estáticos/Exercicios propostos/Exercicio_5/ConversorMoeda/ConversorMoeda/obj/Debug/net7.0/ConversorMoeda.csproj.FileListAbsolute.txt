@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ConversorMoeda.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ConversorMoeda.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ConversorMoeda.sourcelink.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\bin\Debug\net7.0\ConversorMoeda.exe
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\bin\Debug\net7.0\ConversorMoeda.deps.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\bin\Debug\net7.0\ConversorMoeda.runtimeconfig.json
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\bin\Debug\net7.0\ConversorMoeda.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\bin\Debug\net7.0\ConversorMoeda.pdb
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ConversorMoeda.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\refint\ConversorMoeda.dll
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ConversorMoeda.pdb
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ConversorMoeda.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 4 - Classes, atributos, métodos, membros estáticos\Exercicios propostos\Exercicio_5\ConversorMoeda\ConversorMoeda\obj\Debug\net7.0\ref\ConversorMoeda.dll
