@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\bin\Debug\net7.0\ContaBancaria.exe
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\bin\Debug\net7.0\ContaBancaria.deps.json
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\bin\Debug\net7.0\ContaBancaria.runtimeconfig.json
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\bin\Debug\net7.0\ContaBancaria.dll
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\bin\Debug\net7.0\ContaBancaria.pdb
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ContaBancaria.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ContaBancaria.sourcelink.json
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ContaBancaria.dll
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\refint\ContaBancaria.dll
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ContaBancaria.pdb
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ContaBancaria.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 5 - Contrutores, palavra this, sobrecarga, encapsulamento\Exercicios propostos\Exercicio_1\ContaBancaria\obj\Debug\net7.0\ref\ContaBancaria.dll
