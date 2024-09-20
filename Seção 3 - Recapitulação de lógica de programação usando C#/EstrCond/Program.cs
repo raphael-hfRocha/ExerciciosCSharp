@@ -96,28 +96,6 @@ internal class Program
             }
         */
 
-        /*
-            DuracaoHora = HoraInicial - HoraFinal;
-
-        if (DuracaoHora != 0)
-        {
-            if (DuracaoHora < 0)
-            {
-                DuracaoHora = DuracaoHora * -1;
-                Console.WriteLine($"O jogo durou {DuracaoHora} hora(s)");
-            }
-            else
-            {
-                Console.WriteLine($"O jogo durou {DuracaoHora} hora(s)");
-            }
-        }
-        else
-        {
-            Console.WriteLine("O jogo durou 24 hora(s).");
-        }
-        */
-
-
 
         /*
             Exercício 05 - Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A
