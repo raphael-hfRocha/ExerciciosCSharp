@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ListagemFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ListagemFuncionarios.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ListagemFuncionarios.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ListagemFuncionarios.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ListagemFuncionarios.sourcelink.json
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\bin\Debug\net7.0\ListagemFuncionarios.exe
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\bin\Debug\net7.0\ListagemFuncionarios.deps.json
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\bin\Debug\net7.0\ListagemFuncionarios.runtimeconfig.json
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\bin\Debug\net7.0\ListagemFuncionarios.dll
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\bin\Debug\net7.0\ListagemFuncionarios.pdb
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ListagemFuncionarios.dll
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\refint\ListagemFuncionarios.dll
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ListagemFuncionarios.pdb
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ListagemFuncionarios.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 6 - Comportamento de memória, arrays, listas\Exercicios propostos\Exercicio_1\ListagemFuncionarios\obj\Debug\net7.0\ref\ListagemFuncionarios.dll
