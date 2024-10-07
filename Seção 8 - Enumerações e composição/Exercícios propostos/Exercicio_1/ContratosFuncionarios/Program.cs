@@ -43,7 +43,7 @@ public class Program
         NivelFuncionario nivelFuncionario = new NivelFuncionario();
         HorasContrato contrato;
 
-        Console.Write("Digite a função do funcionário: ");
+        Console.Write("Digite o departamento do funcionário: ");
         department.Nome = Console.ReadLine();
         Console.Write("Digite o nome do funcionário: ");
         string nome = Console.ReadLine();
