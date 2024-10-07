@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\bin\Debug\net7.0\ContratosFuncionarios.exe
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\bin\Debug\net7.0\ContratosFuncionarios.deps.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\bin\Debug\net7.0\ContratosFuncionarios.runtimeconfig.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\bin\Debug\net7.0\ContratosFuncionarios.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\bin\Debug\net7.0\ContratosFuncionarios.pdb
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ContratosFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ContratosFuncionarios.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ContratosFuncionarios.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ContratosFuncionarios.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ContratosFuncionarios.sourcelink.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ContratosFuncionarios.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\refint\ContratosFuncionarios.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ContratosFuncionarios.pdb
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ContratosFuncionarios.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_1\ContratosFuncionarios\obj\Debug\net7.0\ref\ContratosFuncionarios.dll
