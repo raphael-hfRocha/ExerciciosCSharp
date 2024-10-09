@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.exe
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.deps.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.runtimeconfig.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\bin\Debug\net7.0\ExercicioPedidos.pdb
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.sourcelink.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\refint\ExercicioPedidos.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.pdb
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ExercicioPedidos.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_3\ExercicioPedidos\obj\Debug\net7.0\ref\ExercicioPedidos.dll
