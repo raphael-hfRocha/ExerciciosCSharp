@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 9 - Heran\u00E7a e polimorfismo\\Exerc\u00EDcios propostos\\Exercicio_1\\FuncionariosEmpresa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7538F8E4-25BE-4991-AC89-77B5357BE91B}|FuncionariosEmpresa.csproj|c:\\nova pasta (2)\\se\u00E7\u00E3o 9 - heran\u00E7a e polimorfismo\\exerc\u00EDcios propostos\\exercicio_1\\funcionariosempresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7538F8E4-25BE-4991-AC89-77B5357BE91B}|FuncionariosEmpresa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7538F8E4-25BE-4991-AC89-77B5357BE91B}|FuncionariosEmpresa.csproj|c:\\nova pasta (2)\\se\u00E7\u00E3o 9 - heran\u00E7a e polimorfismo\\exerc\u00EDcios propostos\\exercicio_1\\funcionariosempresa\\entities\\funcionarioterceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7538F8E4-25BE-4991-AC89-77B5357BE91B}|FuncionariosEmpresa.csproj|solutionrelative:entities\\funcionarioterceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7538F8E4-25BE-4991-AC89-77B5357BE91B}|FuncionariosEmpresa.csproj|c:\\nova pasta (2)\\se\u00E7\u00E3o 9 - heran\u00E7a e polimorfismo\\exerc\u00EDcios propostos\\exercicio_1\\funcionariosempresa\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7538F8E4-25BE-4991-AC89-77B5357BE91B}|FuncionariosEmpresa.csproj|solutionrelative:entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioTerceirizado.cs",
+              "DocumentMoniker": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 9 - Heran\u00E7a e polimorfismo\\Exerc\u00EDcios propostos\\Exercicio_1\\FuncionariosEmpresa\\Entities\\FuncionarioTerceirizado.cs",
+              "RelativeDocumentMoniker": "Entities\\FuncionarioTerceirizado.cs",
+              "ToolTip": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 9 - Heran\u00E7a e polimorfismo\\Exerc\u00EDcios propostos\\Exercicio_1\\FuncionariosEmpresa\\Entities\\FuncionarioTerceirizado.cs",
+              "RelativeToolTip": "Entities\\FuncionarioTerceirizado.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:25:22.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 9 - Heran\u00E7a e polimorfismo\\Exerc\u00EDcios propostos\\Exercicio_1\\FuncionariosEmpresa\\Entities\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Entities\\Funcionario.cs",
+              "ToolTip": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 9 - Heran\u00E7a e polimorfismo\\Exerc\u00EDcios propostos\\Exercicio_1\\FuncionariosEmpresa\\Entities\\Funcionario.cs",
+              "RelativeToolTip": "Entities\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:14:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 9 - Heran\u00E7a e polimorfismo\\Exerc\u00EDcios propostos\\Exercicio_1\\FuncionariosEmpresa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 9 - Heran\u00E7a e polimorfismo\\Exerc\u00EDcios propostos\\Exercicio_1\\FuncionariosEmpresa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:08:08.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

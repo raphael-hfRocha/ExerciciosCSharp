@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\bin\Debug\net7.0\FuncionariosEmpresa.exe
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\bin\Debug\net7.0\FuncionariosEmpresa.deps.json
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\bin\Debug\net7.0\FuncionariosEmpresa.runtimeconfig.json
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\bin\Debug\net7.0\FuncionariosEmpresa.dll
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\bin\Debug\net7.0\FuncionariosEmpresa.pdb
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\FuncionariosEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\FuncionariosEmpresa.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\FuncionariosEmpresa.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\FuncionariosEmpresa.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\FuncionariosEmpresa.sourcelink.json
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\FuncionariosEmpresa.dll
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\refint\FuncionariosEmpresa.dll
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\FuncionariosEmpresa.pdb
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\FuncionariosEmpresa.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_1\FuncionariosEmpresa\obj\Debug\net7.0\ref\FuncionariosEmpresa.dll
