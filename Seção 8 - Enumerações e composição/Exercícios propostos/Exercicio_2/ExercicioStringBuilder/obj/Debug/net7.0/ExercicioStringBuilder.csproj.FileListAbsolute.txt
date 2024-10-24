@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.exe
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.deps.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.runtimeconfig.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\bin\Debug\net7.0\ExercicioStringBuilder.pdb
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.sourcelink.json
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\refint\ExercicioStringBuilder.dll
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.pdb
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ExercicioStringBuilder.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 8 - Enumerações e composição\Exercícios propostos\Exercicio_2\ExercicioStringBuilder\obj\Debug\net7.0\ref\ExercicioStringBuilder.dll

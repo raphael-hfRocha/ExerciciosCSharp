@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 8 - Enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\Exerc\u00EDcios propostos\\Exercicio_2\\ExercicioStringBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F36EBDD3-816F-4148-8979-D161EDD6C88E}|ExercicioStringBuilder.csproj|c:\\nova pasta (2)\\se\u00E7\u00E3o 8 - enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\exerc\u00EDcios propostos\\exercicio_2\\exerciciostringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36EBDD3-816F-4148-8979-D161EDD6C88E}|ExercicioStringBuilder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36EBDD3-816F-4148-8979-D161EDD6C88E}|ExercicioStringBuilder.csproj|c:\\nova pasta (2)\\se\u00E7\u00E3o 8 - enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\exerc\u00EDcios propostos\\exercicio_2\\exerciciostringbuilder\\entities\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36EBDD3-816F-4148-8979-D161EDD6C88E}|ExercicioStringBuilder.csproj|solutionrelative:entities\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36EBDD3-816F-4148-8979-D161EDD6C88E}|ExercicioStringBuilder.csproj|c:\\nova pasta (2)\\se\u00E7\u00E3o 8 - enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\exerc\u00EDcios propostos\\exercicio_2\\exerciciostringbuilder\\entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36EBDD3-816F-4148-8979-D161EDD6C88E}|ExercicioStringBuilder.csproj|solutionrelative:entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 27,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 8 - Enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\Exerc\u00EDcios propostos\\Exercicio_2\\ExercicioStringBuilder\\Entities\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Post.cs",
+              "ToolTip": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 8 - Enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\Exerc\u00EDcios propostos\\Exercicio_2\\ExercicioStringBuilder\\Entities\\Models\\Post.cs",
+              "RelativeToolTip": "Entities\\Models\\Post.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:11:13.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 8 - Enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\Exerc\u00EDcios propostos\\Exercicio_2\\ExercicioStringBuilder\\Entities\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Comment.cs",
+              "ToolTip": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 8 - Enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\Exerc\u00EDcios propostos\\Exercicio_2\\ExercicioStringBuilder\\Entities\\Models\\Comment.cs",
+              "RelativeToolTip": "Entities\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:25:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 8 - Enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\Exerc\u00EDcios propostos\\Exercicio_2\\ExercicioStringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Nova pasta (2)\\Se\u00E7\u00E3o 8 - Enumera\u00E7\u00F5es e composi\u00E7\u00E3o\\Exerc\u00EDcios propostos\\Exercicio_2\\ExercicioStringBuilder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:21:21.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
