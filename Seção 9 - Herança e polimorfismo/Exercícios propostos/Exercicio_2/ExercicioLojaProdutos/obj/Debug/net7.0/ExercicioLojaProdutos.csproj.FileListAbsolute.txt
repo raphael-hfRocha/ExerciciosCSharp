@@ -1,0 +1,15 @@
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\bin\Debug\net7.0\ExercicioLojaProdutos.exe
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\bin\Debug\net7.0\ExercicioLojaProdutos.deps.json
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\bin\Debug\net7.0\ExercicioLojaProdutos.runtimeconfig.json
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\bin\Debug\net7.0\ExercicioLojaProdutos.dll
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\bin\Debug\net7.0\ExercicioLojaProdutos.pdb
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ExercicioLojaProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ExercicioLojaProdutos.AssemblyInfoInputs.cache
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ExercicioLojaProdutos.AssemblyInfo.cs
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ExercicioLojaProdutos.csproj.CoreCompileInputs.cache
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ExercicioLojaProdutos.sourcelink.json
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ExercicioLojaProdutos.dll
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\refint\ExercicioLojaProdutos.dll
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ExercicioLojaProdutos.pdb
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ExercicioLojaProdutos.genruntimeconfig.cache
+C:\Nova pasta (2)\Seção 9 - Herança e polimorfismo\Exercícios propostos\Exercicio_2\ExercicioLojaProdutos\obj\Debug\net7.0\ref\ExercicioLojaProdutos.dll
